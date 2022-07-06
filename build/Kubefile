@@ -1,0 +1,3 @@
+FROM ack-agility-registry.cn-shanghai.cr.aliyuncs.com/ecp_builder/ackdistro:v1-22-3-ack-3
+
+COPY imageList manifests
